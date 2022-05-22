@@ -2,9 +2,9 @@
 
 BIQU Kossel Pro klipper config
 
-moonraker/fluidd/klipperscreen
+moonraker/fluidd/klipperscreen/telegramBot
 
-board used are BTT SKR2
-drivers are FYSETC TMC5161
-raspberry 3 model b
-accelerometer ADXL345
+board used is BTT Octopus 1.1
+drivers are FYSETC TMC5161 & TMC2209
+OrangePi Pi 3 LTS
+
